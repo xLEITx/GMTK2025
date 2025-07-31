@@ -3,7 +3,7 @@ circle = false;
 triangle = false;
 var_x = false;
 battery_red = 0;
-battery_green = 2;
+battery_green = 0;
 battery_purple = 0;
 
 change_variable = function(variable, new_value){
