@@ -1,0 +1,20 @@
+{
+  "$GMPath":"",
+  "%Name":"Path6",
+  "closed":false,
+  "kind":0,
+  "name":"Path6",
+  "parent":{
+    "name":"blocks",
+    "path":"folders/Objects/blocks.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":448.0,"y":64.0,},
+    {"speed":100.0,"x":512.0,"y":64.0,},
+    {"speed":100.0,"x":560.0,"y":64.0,},
+    {"speed":100.0,"x":560.0,"y":160.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

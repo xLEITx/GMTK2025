@@ -57,6 +57,7 @@
     {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},},
     {"id":{"name":"obj_switch","path":"objects/obj_switch/obj_switch.yy",},},
     {"id":{"name":"obj_variables_container","path":"objects/obj_variables_container/obj_variables_container.yy",},},
+    {"id":{"name":"Path6","path":"paths/Path6/Path6.yy",},},
     {"id":{"name":"pth_test_1","path":"paths/pth_test_1/pth_test_1.yy",},},
     {"id":{"name":"pth_test_2","path":"paths/pth_test_2/pth_test_2.yy",},},
     {"id":{"name":"pth_test_3","path":"paths/pth_test_3/pth_test_3.yy",},},
