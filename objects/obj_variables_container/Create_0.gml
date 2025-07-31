@@ -2,7 +2,7 @@ sqare = false;
 circle = false;
 triangle = false;
 var_x = false;
-battery_red = 0;
+battery_red = 1;
 battery_green = 0;
 battery_purple = 0;
 
