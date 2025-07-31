@@ -47,6 +47,7 @@
     {"id":{"name":"obj_battery","path":"objects/obj_battery/obj_battery.yy",},},
     {"id":{"name":"obj_button_restart","path":"objects/obj_button_restart/obj_button_restart.yy",},},
     {"id":{"name":"obj_charger","path":"objects/obj_charger/obj_charger.yy",},},
+    {"id":{"name":"obj_end_conroller","path":"objects/obj_end_conroller/obj_end_conroller.yy",},},
     {"id":{"name":"obj_end","path":"objects/obj_end/obj_end.yy",},},
     {"id":{"name":"obj_equals_gate","path":"objects/obj_equals_gate/obj_equals_gate.yy",},},
     {"id":{"name":"obj_gate","path":"objects/obj_gate/obj_gate.yy",},},
