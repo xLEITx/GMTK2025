@@ -5,8 +5,8 @@
   "kind":0,
   "name":"pth_test_4",
   "parent":{
-    "name":"Paths",
-    "path":"folders/Paths.yy",
+    "name":"test",
+    "path":"folders/Paths/test.yy",
   },
   "points":[
     {"speed":100.0,"x":336.0,"y":112.0,},

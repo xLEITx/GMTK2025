@@ -9,8 +9,8 @@
   "name":"obj_if_else",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"blocks",
+    "path":"folders/Objects/blocks.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -2,6 +2,11 @@ enum VARIABLES {
 	SQUARE,
     CIRCLE,
     TRIANGLE,
-    X
+    X,
+    BATTERY_PURPLE,
+    BATTERY_GREEN,
+    BATTERY_RED
 }
+
+
 
