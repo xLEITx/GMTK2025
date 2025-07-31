@@ -1,0 +1,6 @@
+enum VARIABLES {
+	SQUARE,
+    CIRCLE,
+    TRIANGLE,
+    X
+}
