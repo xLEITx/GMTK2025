@@ -16,8 +16,8 @@
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"blocks","folderPath":"folders/Objects/blocks.yy","name":"blocks","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"UI","folderPath":"folders/Objects/UI.yy","name":"UI","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"path_elements","folderPath":"folders/Objects/path_elements.yy","name":"path_elements","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"UI","folderPath":"folders/Objects/UI.yy","name":"UI","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Paths","folderPath":"folders/Paths.yy","name":"Paths","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"test","folderPath":"folders/Paths/test.yy","name":"test","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -43,6 +43,7 @@
   "name":"GMTK2025",
   "resources":[
     {"id":{"name":"fnt_elements","path":"fonts/fnt_elements/fnt_elements.yy",},},
+    {"id":{"name":"obj_battery","path":"objects/obj_battery/obj_battery.yy",},},
     {"id":{"name":"obj_end","path":"objects/obj_end/obj_end.yy",},},
     {"id":{"name":"obj_if_else","path":"objects/obj_if_else/obj_if_else.yy",},},
     {"id":{"name":"obj_path","path":"objects/obj_path/obj_path.yy",},},

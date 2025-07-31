@@ -2,6 +2,9 @@ sqare = false;
 circle = false;
 triangle = false;
 var_x = false;
+battery_red = 0;
+battery_green = 2;
+battery_purple = 0;
 
 change_variable = function(variable, new_value){
     switch (variable) {
@@ -16,6 +19,15 @@ change_variable = function(variable, new_value){
         break;
         case VARIABLES.X:
             var_x = new_value;
+        break;
+        case VARIABLES.BATTERY_GREEN:
+            battery_green = new_value;
+        break;
+        case VARIABLES.BATTERY_RED:
+            battery_red = new_value;
+        break;
+        case VARIABLES.BATTERY_PURPLE:
+            battery_purple = new_value;
         break;
     }
 }
@@ -34,5 +46,15 @@ get_variable = function(variable){
         case VARIABLES.X:
             return var_x;
         break;
+        case VARIABLES.BATTERY_GREEN:
+            return battery_green;
+        break;
+        case VARIABLES.BATTERY_PURPLE:
+            return battery_purple;
+        break;
+        case VARIABLES.BATTERY_RED:
+            return battery_red;
+        break;
+        
     }
 }

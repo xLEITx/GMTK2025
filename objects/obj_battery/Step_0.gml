@@ -1,0 +1,1 @@
+image_index = obj_variables_container.get_variable(variable);
