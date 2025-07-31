@@ -4,3 +4,4 @@ enum VARIABLES {
     TRIANGLE,
     X
 }
+
