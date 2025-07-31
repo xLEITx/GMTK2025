@@ -31,7 +31,7 @@
   "origin":0,
   "parent":{
     "name":"batteries",
-    "path":"folders/Sprites/batteries.yy",
+    "path":"folders/Sprites/UI/batteries.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
