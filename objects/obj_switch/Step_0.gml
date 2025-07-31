@@ -28,3 +28,5 @@ switch (variable) {
         }
     break;
 }
+
+state = obj_variables_container.get_variable(variable);

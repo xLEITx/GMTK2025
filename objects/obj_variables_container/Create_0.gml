@@ -1,0 +1,38 @@
+sqare = false;
+circle = false;
+triangle = false;
+var_x = false;
+
+change_variable = function(variable, new_value){
+    switch (variable) {
+    	case VARIABLES.SQUARE:
+            sqare = new_value;
+        break;
+        case VARIABLES.CIRCLE:
+            circle = new_value;
+        break;
+        case VARIABLES.TRIANGLE:
+            triangle = new_value;
+        break;
+        case VARIABLES.X:
+            var_x = new_value;
+        break;
+    }
+}
+
+get_variable = function(variable){
+    switch (variable) {
+    	case VARIABLES.SQUARE:
+            return sqare;
+        break;
+        case VARIABLES.CIRCLE:
+            return circle;
+        break;
+        case VARIABLES.TRIANGLE:
+            return triangle;
+        break;
+        case VARIABLES.X:
+            return var_x;
+        break;
+    }
+}

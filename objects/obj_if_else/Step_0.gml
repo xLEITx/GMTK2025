@@ -1,4 +1,4 @@
-if (expression) {
+if (obj_variables_container.get_variable(variable)) {
 	state = true;
 }else {
 	state = false
