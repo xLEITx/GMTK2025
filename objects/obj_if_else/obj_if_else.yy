@@ -33,9 +33,8 @@
     {"$GMObjectProperty":"v1","%Name":"path_false","filters":[
         "GMPath",
       ],"listItems":[],"multiselect":false,"name":"path_false","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"pth_test_2","path":"paths/pth_test_2/pth_test_2.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"pth_test_2","varType":5,},
-    {"$GMObjectProperty":"v1","%Name":"expression","filters":[],"listItems":[],"multiselect":false,"name":"expression","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"1 == 2","varType":4,},
-    {"$GMObjectProperty":"v1","%Name":"text","filters":[],"listItems":[],"multiselect":false,"name":"text","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
     {"$GMObjectProperty":"v1","%Name":"variable","filters":[],"listItems":[],"multiselect":false,"name":"variable","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"VARIABLES.SQUARE","varType":4,},
+    {"$GMObjectProperty":"v1","%Name":"is_crossroad","filters":[],"listItems":[],"multiselect":false,"name":"is_crossroad","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
