@@ -12,4 +12,7 @@ switch (variable) {
     break;
 }
 
-is_collision_activated = false;
+image_speed = 0;
+
+is_opened = false;
+is_path_added = false;
