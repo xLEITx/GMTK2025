@@ -1,0 +1,21 @@
+{
+  "$GMPath":"",
+  "%Name":"pth_level2_crossroad1_right_red",
+  "closed":false,
+  "kind":0,
+  "name":"pth_level2_crossroad1_right_red",
+  "parent":{
+    "name":"right",
+    "path":"folders/Paths/level 2/right.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":480.0,"y":192.0,},
+    {"speed":100.0,"x":512.0,"y":192.0,},
+    {"speed":100.0,"x":512.0,"y":224.0,},
+    {"speed":100.0,"x":480.0,"y":224.0,},
+    {"speed":100.0,"x":480.0,"y":192.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
