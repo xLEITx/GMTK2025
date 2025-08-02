@@ -1,0 +1,22 @@
+{
+  "$GMPath":"",
+  "%Name":"pth_level4_1_top_crossroad1_green",
+  "closed":false,
+  "kind":0,
+  "name":"pth_level4_1_top_crossroad1_green",
+  "parent":{
+    "name":"top",
+    "path":"folders/Paths/level 4_1/top.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":192.0,"y":32.0,},
+    {"speed":100.0,"x":192.0,"y":32.0,},
+    {"speed":100.0,"x":64.0,"y":32.0,},
+    {"speed":100.0,"x":64.0,"y":128.0,},
+    {"speed":100.0,"x":192.0,"y":128.0,},
+    {"speed":100.0,"x":192.0,"y":32.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
