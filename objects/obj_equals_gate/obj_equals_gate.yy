@@ -29,6 +29,9 @@
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"battery_1","filters":[],"listItems":[],"multiselect":false,"name":"battery_1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"VARIABLES.BATTERY_RED","varType":4,},
     {"$GMObjectProperty":"v1","%Name":"battery_2","filters":[],"listItems":[],"multiselect":false,"name":"battery_2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"VARIABLES.BATTERY_GREEN","varType":4,},
+    {"$GMObjectProperty":"v1","%Name":"opened_path","filters":[
+        "GMPath",
+      ],"listItems":[],"multiselect":false,"name":"opened_path","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
