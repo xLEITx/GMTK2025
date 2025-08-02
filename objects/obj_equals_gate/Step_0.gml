@@ -1,7 +1,7 @@
 var battery_1_value = obj_variables_container.get_variable(battery_1);
 var battery_2_value = obj_variables_container.get_variable(battery_2);
 
-if (battery_1_value == battery_2_value) {
+if (battery_1_value == battery_2_value && battery_1_value == 3) {
     is_opened_previous = is_opened;
 	is_opened = true;
     if (is_opened != is_opened_previous) {
