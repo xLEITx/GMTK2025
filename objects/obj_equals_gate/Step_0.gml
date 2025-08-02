@@ -6,12 +6,14 @@ if (battery_1_value == battery_2_value && battery_1_value == 3) {
 	is_opened = true;
     if (is_opened != is_opened_previous) {
     	image_speed = 1;
+        audio_play_sound(snd_gates, 0, false, 1, 0, random_range(0.8, 1.1));
     }
 }else {
     is_opened_previous = is_opened;
 	is_opened = false;
     if (is_opened != is_opened_previous) {
     	image_speed = -1;
+        audio_play_sound(snd_gates, 0, false, 1, 0, random_range(0.8, 1.1));
     }
 }
 
