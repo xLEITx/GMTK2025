@@ -67,7 +67,7 @@
     },
     "name":"spr_battery_dr_red_1",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":5.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
