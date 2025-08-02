@@ -4,6 +4,7 @@ if (place_meeting(x, y, obj_pointer)) {
     	if (old_value < 5) {
         	obj_variables_container.change_variable(variable, old_value + 1);
         }
+        audio_play_sound(snd_charger, 0, false, 1, 0, random_range(0.8, 1.1));
         is_collision_activated = true;
     }
 }else {

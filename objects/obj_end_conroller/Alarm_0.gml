@@ -1,1 +1,2 @@
-show_debug_message("YEAH");
+audio_stop_all();
+room_goto_next();
