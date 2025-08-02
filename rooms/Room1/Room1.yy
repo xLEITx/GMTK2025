@@ -23,7 +23,6 @@
     {"name":"inst_559D819D","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_255759AF","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_7457FA90","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_6F7A0A44","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_231AB74C","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_6A2B3FA8","path":"rooms/Room1/Room1.yy",},
   ],
@@ -81,12 +80,9 @@
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":336.0,"y":16.0,},
         {"$GMRInstance":"v2","%Name":"inst_559D819D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_559D819D","objectId":{"name":"obj_button_restart","path":"objects/obj_button_restart/obj_button_restart.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":592.0,"y":288.0,},
         {"$GMRInstance":"v2","%Name":"inst_255759AF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_255759AF","objectId":{"name":"obj_end_conroller","path":"objects/obj_end_conroller/obj_end_conroller.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":16.0,},
-        {"$GMRInstance":"v2","%Name":"inst_6F7A0A44","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6F7A0A44","objectId":{"name":"obj_pointer","path":"objects/obj_pointer/obj_pointer.yy",},"properties":[
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_pointer","path":"objects/obj_pointer/obj_pointer.yy",},"propertyId":{"name":"path_initial","path":"objects/obj_pointer/obj_pointer.yy",},"resource":{"name":"pth_test_1","path":"paths/pth_test_1/pth_test_1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"pth_test_1",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":80.0,"y":208.0,},
         {"$GMRInstance":"v2","%Name":"inst_7DAD451D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7DAD451D","objectId":{"name":"obj_pointer","path":"objects/obj_pointer/obj_pointer.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_pointer","path":"objects/obj_pointer/obj_pointer.yy",},"propertyId":{"name":"path_initial","path":"objects/obj_pointer/obj_pointer.yy",},"resource":{"name":"pth_test_start","path":"paths/pth_test_start/pth_test_start.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"pth_test_start",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":96.0,},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":160.0,},
         {"$GMRInstance":"v2","%Name":"inst_231AB74C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_231AB74C","objectId":{"name":"obj_charger","path":"objects/obj_charger/obj_charger.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_charger","path":"objects/obj_charger/obj_charger.yy",},"propertyId":{"name":"variable","path":"objects/obj_charger/obj_charger.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"VARIABLES.BATTERY_RED",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":224.0,"y":176.0,},
