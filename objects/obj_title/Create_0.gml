@@ -1,0 +1,1 @@
+audio_play_sound(snd_music_room_7_9, 0, true);
