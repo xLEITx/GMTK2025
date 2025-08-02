@@ -103,6 +103,7 @@
     {"id":{"name":"spr_sky_4","path":"sprites/spr_sky_4/spr_sky_4.yy",},},
     {"id":{"name":"spr_start","path":"sprites/spr_start/spr_start.yy",},},
     {"id":{"name":"spr_switch","path":"sprites/spr_switch/spr_switch.yy",},},
+    {"id":{"name":"spr_ui_box","path":"sprites/spr_ui_box/spr_ui_box.yy",},},
     {"id":{"name":"spr_wires","path":"sprites/spr_wires/spr_wires.yy",},},
     {"id":{"name":"tileset_road","path":"tilesets/tileset_road/tileset_road.yy",},},
   ],
