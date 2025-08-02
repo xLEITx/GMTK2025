@@ -4,11 +4,11 @@ switch (variable) {
     break;
     
     case VARIABLES.BATTERY_GREEN:
-        image_index = 1;
+        image_index = 2;
     break;
     
     case VARIABLES.BATTERY_RED:
-        image_index = 2;
+        image_index = 1;
     break;
     
 }
