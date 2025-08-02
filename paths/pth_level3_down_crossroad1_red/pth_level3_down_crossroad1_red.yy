@@ -6,7 +6,7 @@
   "name":"pth_level3_down_crossroad1_red",
   "parent":{
     "name":"down",
-    "path":"folders/Paths/level3/down.yy",
+    "path":"folders/Paths/level 3/down.yy",
   },
   "points":[
     {"speed":100.0,"x":256.0,"y":192.0,},

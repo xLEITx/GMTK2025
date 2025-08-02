@@ -6,7 +6,7 @@
   "name":"pth_level3_top_crossroad2_green",
   "parent":{
     "name":"top",
-    "path":"folders/Paths/level3/top.yy",
+    "path":"folders/Paths/level 3/top.yy",
   },
   "points":[
     {"speed":100.0,"x":384.0,"y":64.0,},
