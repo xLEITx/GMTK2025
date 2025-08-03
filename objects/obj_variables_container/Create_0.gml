@@ -62,53 +62,62 @@ get_variable = function(variable){
 switch (room) {
 	case rm_level_1:
         if (!audio_is_playing(snd_music_room_1_2)) {
+            audio_stop_all();
         	audio_play_sound(snd_music_room_1_2, 0, true);
         }
     break;
     
     case rm_level_2:
         if (!audio_is_playing(snd_music_room_1_2)) {
+            audio_stop_all();
         	audio_play_sound(snd_music_room_1_2, 0, true);
         }
     break;
     case rm_level_3:
         if (!audio_is_playing(snd_music_room_3_4)) {
+            audio_stop_all();
         	audio_play_sound(snd_music_room_3_4, 0, true);
         }
     break;
     
     case rm_level_4:
         if (!audio_is_playing(snd_music_room_3_4)) {
+            audio_stop_all();
         	audio_play_sound(snd_music_room_3_4, 0, true);
         }
     break;
     
     case rm_level_4_1:
         if (!audio_is_playing(snd_music_room_5_6)) {
+            audio_stop_all();
         	audio_play_sound(snd_music_room_5_6, 0, true);
         }
     break;
     
     case rm_level_5:
         if (!audio_is_playing(snd_music_room_5_6)) {
+            audio_stop_all();
         	audio_play_sound(snd_music_room_5_6, 0, true);
         }
     break;
     
     case rm_level_5_1:
         if (!audio_is_playing(snd_music_room_7_9)) {
+            audio_stop_all();
         	audio_play_sound(snd_music_room_7_9, 0, true);
         }
     break;
     
     case rm_level_6:
         if (!audio_is_playing(snd_music_room_7_9)) {
+            audio_stop_all();
         	audio_play_sound(snd_music_room_7_9, 0, true);
         }
     break;
     
     case rm_level_7:
         if (!audio_is_playing(snd_music_room_7_9)) {
+            audio_stop_all();
         	audio_play_sound(snd_music_room_7_9, 0, true);
         }
     break;
