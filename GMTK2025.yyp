@@ -179,6 +179,7 @@
     {"id":{"name":"pth_test_4","path":"paths/pth_test_4/pth_test_4.yy",},},
     {"id":{"name":"pth_test_5","path":"paths/pth_test_5/pth_test_5.yy",},},
     {"id":{"name":"pth_test_start","path":"paths/pth_test_start/pth_test_start.yy",},},
+    {"id":{"name":"rm_credits_1","path":"rooms/rm_credits_1/rm_credits_1.yy",},},
     {"id":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
     {"id":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
     {"id":{"name":"rm_level_2","path":"rooms/rm_level_2/rm_level_2.yy",},},
@@ -295,6 +296,7 @@
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"rm_level_layout","path":"rooms/rm_level_layout/rm_level_layout.yy",},},
     {"roomId":{"name":"rm_levels_menu","path":"rooms/rm_levels_menu/rm_levels_menu.yy",},},
+    {"roomId":{"name":"rm_credits_1","path":"rooms/rm_credits_1/rm_credits_1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
