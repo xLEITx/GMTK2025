@@ -223,6 +223,8 @@
     {"id":{"name":"spr_eqals_tv_red_purple","path":"sprites/spr_eqals_tv_red_purple/spr_eqals_tv_red_purple.yy",},},
     {"id":{"name":"spr_gate","path":"sprites/spr_gate/spr_gate.yy",},},
     {"id":{"name":"spr_if_else","path":"sprites/spr_if_else/spr_if_else.yy",},},
+    {"id":{"name":"spr_jam_logo_black","path":"sprites/spr_jam_logo_black/spr_jam_logo_black.yy",},},
+    {"id":{"name":"spr_jam_logo_white","path":"sprites/spr_jam_logo_white/spr_jam_logo_white.yy",},},
     {"id":{"name":"spr_path","path":"sprites/spr_path/spr_path.yy",},},
     {"id":{"name":"spr_pointer","path":"sprites/spr_pointer/spr_pointer.yy",},},
     {"id":{"name":"spr_road_tiles","path":"sprites/spr_road_tiles/spr_road_tiles.yy",},},
